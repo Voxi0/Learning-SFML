@@ -32,7 +32,7 @@ int main() {
     // Textures
     // Player Texture
     sf::Texture playerTexture;
-    playerTexture.loadFromFile("gfx/player.png");
+    playerTexture.loadFromFile("assets/gfx/player.png");
     int playertextureSize = 128;
 
     // Sprites
