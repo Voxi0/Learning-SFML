@@ -12,7 +12,7 @@
 
 // Main Window
 int width = 800, height = 600;
-std::string title = "GAME";
+std::string title = "Bouncing Trollface";
 
 // Player
 float xVel = 2, yVel = 2;
